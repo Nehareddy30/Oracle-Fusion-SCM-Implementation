@@ -57,4 +57,5 @@ Phase 2	Months 3–4	Supplier portal, 3-way match, Payables automation
 Phase 3	Months 5–6	OAC dashboards, KPI reporting, optimization
 
 Author
+
 Built as a portfolio project to demonstrate Oracle Fusion Cloud SCM knowledge and ERP implementation methodology. Connect on [LinkedIn](www.linkedin.com/in/neha-pannala)).
